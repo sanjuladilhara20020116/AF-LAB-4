@@ -43,7 +43,7 @@ console.log(myModule.myFunction());
 //Promises
 const myPromise = new Promise((resolve, reject) => {
  if (condition) {
- resolve('Success!');
+ resolve('Success congratulations!');
  } else {
  reject('Failure!');
  }
